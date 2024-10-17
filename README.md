@@ -1,5 +1,5 @@
 # Windows
-I don't use windows, but sometimes I forced to use it. 
+I don't use windows, but sometimes...my hand is forced. 
 
 Getting the name of a pc
 ```shell

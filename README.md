@@ -6,6 +6,11 @@ Getting the name of a pc
 wmic csproduct get name
 ```
 
+Getting the system information for a pc
+```shell
+systeminfo
+```
+
 ## Tools I would use on Windows
 
 1. [File Zipping tool](https://www.7-zip.org/download.html)
